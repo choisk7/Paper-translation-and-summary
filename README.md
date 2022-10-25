@@ -9,3 +9,4 @@
 - [Deep Feature Synthesis: Towards Automating Data Science Endeavors (2015)](https://choisk7.github.io/papers/Deep_Feature_Synthesis-Towards_Automating_Data_Science_Endeavors/)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](https://choisk7.github.io/papers/BERT-Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding/)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (2019)](https://choisk7.github.io/papers/Sentence_Embeddings_using_Siamese_BERT-Networks/)
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach (2019)](https://choisk7.github.io/papers/RoBERTa-A_Robustly_Optimized_BERT_Pretraining_Approach/)

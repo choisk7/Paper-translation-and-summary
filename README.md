@@ -10,3 +10,4 @@
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](https://choisk7.github.io/papers/BERT-Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding/)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (2019)](https://choisk7.github.io/papers/Sentence_Embeddings_using_Siamese_BERT-Networks/)
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach (2019)](https://choisk7.github.io/papers/RoBERTa-A_Robustly_Optimized_BERT_Pretraining_Approach/)
+- [DeBERTa: Decoding-enhanced BERT with Disentangled Attention (2021)](https://choisk7.github.io/papers/Decoding-enhanced_BERT_with_Disentangled_Attention/)
